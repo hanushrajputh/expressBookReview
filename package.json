@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.x",
+    "jsonwebtoken": "^9.x",
+    "axios": "^1.x"
+  }
+}
